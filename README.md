@@ -13,3 +13,6 @@ This project was created to explore classification models to classify stellar ob
   
  Link to presentation:
  https://docs.google.com/presentation/d/1IZPVL8IP1ydDWPLVlGX6H_Vjbbn0zb7oiugWAVPwNxY/edit?usp=sharing
+
+
+The data set used is the "star_classification.csv" file
